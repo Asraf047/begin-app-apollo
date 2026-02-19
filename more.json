@@ -4,19 +4,19 @@
       "title": "Easy Hefz",
       "summary": "A simple platform to help with Qur’an memorization",
       "url": "https://easyhefz.web.app/",
-      "updatedVersion": "1.0.0"
+      "version": "1.0.0"
     },
     {
       "title": "Al Quran 3D (Hafizi 15 lines)",
       "summary": "An ad-free Qur’an reading app with realistic 3D page-flip animation (Saudi print)",
       "url": "https://play.google.com/store/apps/details?id=com.amanullah.alquran3d",
-      "updatedVersion": "8.0.3"
+      "version": "8.0.3"
     },
     {
       "title": "Imdadia 15 lines Hafezi Quran",
       "summary": "An ad-free Qur’an reading app with realistic 3D page-flip animation (Imdadia print)",
       "url": "https://play.google.com/store/apps/details?id=com.amanullah.quran.imdadia",
-      "updatedVersion": "1.0.3"
+      "version": "1.0.3"
     }
   ]
 }
